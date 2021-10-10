@@ -1,6 +1,6 @@
 # This is a SPA aplication to show users theys studies in card mode
 
-A simple app
+Responsive app which show users studies list and receives data from local mock_data jason file
 
 ## Instalation
 

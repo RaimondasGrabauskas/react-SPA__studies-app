@@ -15,7 +15,43 @@ h2 {
   color: snow;
 }
 
-.App {
-  max-width: 1000px;
-  margin: 0 auto;
+/* responsive */
+
+@media (min-width: 600px) {
+  .App {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 320px) {
+  .App {
+    max-width: 290px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 600px) {
+  .App {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 768px) {
+  .App {
+    max-width: 668px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 992px) {
+  .App {
+    max-width: 792px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1200px) {
+  .App {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
 }
